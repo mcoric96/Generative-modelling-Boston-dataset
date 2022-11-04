@@ -15,4 +15,7 @@ Load data with:
 ```python
 boston_data = loadmat('boston_dataset_data')['boston_dataset_data']
 ```
-<br>
+.<br>
+
+Generative models included:
+- Gaussian mixture models
