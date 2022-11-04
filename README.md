@@ -10,3 +10,5 @@ Dataset contains 506 cases, each with 14 attributes (13 numerical/categorical pr
 
 Second and fourth column from predictors are deleted and target variable is joined to final dataset for generative modelling. <br>
 Shape of final dataset ```boston_dataset_data.mat``` is ```(506,12)```. <br>
+
+Load data with: ```boston_data = loadmat('boston_dataset_data')['boston_dataset_data']```. <br>
