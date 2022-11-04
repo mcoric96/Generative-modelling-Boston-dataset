@@ -24,5 +24,8 @@ Generative models included:
 Distributions of 12 variables used for generative modelling:
 ![image](https://user-images.githubusercontent.com/38408538/199962504-a5a4302a-b3d9-4ac9-97ac-a6de7215cede.png)
 
-**Correlation**
+**Correlation** <br>
 ![image](https://user-images.githubusercontent.com/38408538/199963376-74c16ed8-a5b5-4a0e-a731-35f5b2af6955.png)
+
+**DBSCAN clustering analysis of preprocessed data** <br>
+![image](https://user-images.githubusercontent.com/38408538/199963701-5f4394a6-daca-4908-8fb8-d91aa68cae97.png)
