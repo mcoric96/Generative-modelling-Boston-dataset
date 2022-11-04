@@ -23,3 +23,6 @@ Generative models included:
 ## Dataset
 Distributions of 12 variables used for generative modelling:
 ![image](https://user-images.githubusercontent.com/38408538/199962504-a5a4302a-b3d9-4ac9-97ac-a6de7215cede.png)
+
+**Correlation**
+![image](https://user-images.githubusercontent.com/38408538/199963376-74c16ed8-a5b5-4a0e-a731-35f5b2af6955.png)
