@@ -19,3 +19,6 @@ boston_data = loadmat('boston_dataset_data')['boston_dataset_data']
 
 Generative models included:
 - Gaussian mixture models
+
+## Dataset
+![image](https://user-images.githubusercontent.com/38408538/199962504-a5a4302a-b3d9-4ac9-97ac-a6de7215cede.png)
