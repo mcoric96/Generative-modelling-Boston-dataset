@@ -10,4 +10,4 @@ Link: https://scikit-learn.org/stable/modules/generated/sklearn.mixture.Gaussian
 ## Theory
 Gaussian mixture models (GMM) are probabilistic statistical models usedto model datasets. <br>
 This model assumes that all data points are generated from a mix of Gaussian distributions with unknown parameters. <br>
-GMM is defined with mean vectors $\Mu$
+GMM is defined with mean vectors $\mu$ and covariance matrices $\Sigma$ for each variable present in the data.
