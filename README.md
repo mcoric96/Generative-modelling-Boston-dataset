@@ -1,5 +1,5 @@
 # Generative-modelling-Boston-dataset
-Generative models for creating synthetic data from Boston dataset <br>
+Generative models for creating synthetic data from Boston housing dataset. <br>
 
 Boston dataset is preprocessed in ``` data_preparation.ipynb ``` file. <br>
 Load preprocessed data from ``` boston_dataset_data.mat ``` file. <br>
@@ -11,11 +11,11 @@ Dataset contains 506 cases, each with 14 attributes (13 numerical/categorical pr
 Second and fourth column from predictors are deleted and target variable is joined to final dataset for generative modelling. <br>
 Shape of final dataset ```boston_dataset_data.mat``` is ```(506,12)```. <br>
 
-Load data with: 
+Load preprocessed data with: 
 ```python
 boston_data = loadmat('boston_dataset_data')['boston_dataset_data']
 ```
-.<br>
+<br>
 
 Generative models included:
 - Gaussian mixture models
