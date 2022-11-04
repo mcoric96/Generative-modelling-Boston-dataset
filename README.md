@@ -12,7 +12,7 @@ Second and fourth column from predictors are deleted and target variable is join
 Shape of final dataset ```boston_dataset_data.mat``` is ```(506,12)```. <br>
 
 Load data with: 
-```ruby
+```python
 boston_data = loadmat('boston_dataset_data')['boston_dataset_data']
 ```
 <br>
