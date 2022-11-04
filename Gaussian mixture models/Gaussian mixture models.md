@@ -20,7 +20,7 @@ GMM are mostly used for:
 Procedure for fitting data points to GMM uses Expectation Maximization (EM) method. <br>
 
 ## Results
-# Hyperparameters
+### Hyperparameters
 The following two hyperparameters are used:
 - number of Gaussian components for each variable in dataset (1 to 15),
 - covariance matrix type: full, each component has its own general covariance matrix.
