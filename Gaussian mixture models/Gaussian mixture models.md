@@ -1,6 +1,6 @@
 # Gaussian mixture models
 
-Implementation: scikit-learn Python library, 
+Implementation: scikit-learn Python library
 ```python
 sklearn.mixture.GaussianMixture
 ```
